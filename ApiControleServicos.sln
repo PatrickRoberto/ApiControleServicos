@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiControleServicos", "ApiControleServicos\ApiControleServicos.csproj", "{EA4F3DFC-4375-4C2C-966D-9189787EE3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciarPropriedades", "Servicos\GerenciarPropriedades.csproj", "{8BA31DBB-6D85-42DB-AFD3-99A004E6B492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4F3DFC-4375-4C2C-966D-9189787EE3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4F3DFC-4375-4C2C-966D-9189787EE3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4F3DFC-4375-4C2C-966D-9189787EE3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4F3DFC-4375-4C2C-966D-9189787EE3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA31DBB-6D85-42DB-AFD3-99A004E6B492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA31DBB-6D85-42DB-AFD3-99A004E6B492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA31DBB-6D85-42DB-AFD3-99A004E6B492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA31DBB-6D85-42DB-AFD3-99A004E6B492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

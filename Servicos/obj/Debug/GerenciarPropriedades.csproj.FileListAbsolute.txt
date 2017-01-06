@@ -1,0 +1,7 @@
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\obj\Debug\GerenciarPropriedades.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\bin\Debug\Servicos.dll
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\bin\Debug\Servicos.pdb
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\obj\Debug\Servicos.dll
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\obj\Debug\Servicos.pdb
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\bin\Debug\Servicos.dll.config
+C:\Users\Patrick\Desktop\VagaEstagio\Solutions\ApiControleServicos\Servicos\bin\Debug\MySql.Data.dll
